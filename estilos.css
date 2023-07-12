@@ -1,0 +1,15 @@
+nav{
+    background-color: rgb(21, 112, 192);
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    display: contents;
+   justify-content: center;
+}
+
+ul img{
+    height: auto;
+    width: 100px;
+}
